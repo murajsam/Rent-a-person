@@ -1,0 +1,277 @@
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\source\repos\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.Menu.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.RentAProvider.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.Menu.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.RentAProvider.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\RentAPersonApp\obj\Debug\RentAPersonApp.CreateOffer.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.CreateOffer.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.Menu.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.RentAProvider.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.CreateOffer.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.Menu.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.RentAProvider.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.EditOffer.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.EditUser.resources
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\RentAPersonApp\obj\Debug\RentAPersonApp.EditProvider.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.CreateOffer.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.EditOffer.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.EditProvider.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.EditUser.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.Menu.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.RentAProvider.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.CreateOffer.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.EditOffer.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.EditProvider.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.EditUser.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.Menu.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.RentAProvider.resources
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RentAProvider.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.EditReservation.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.MainMenu.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.ReservationMenu.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.EditProfile.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterReservation.resources
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RentMenu.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.EditProfile.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.EditReservation.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.MainMenu.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterReservation.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RentMenu.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.ReservationMenu.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.RentAProvider.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.Info.resources
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\RentAPersonApp\obj\Debug\RentAPersonApp.TermsOfService.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.EditProfile.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.EditReservation.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.Info.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.MainMenu.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterReservation.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RentMenu.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.ReservationMenu.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RentAProvider.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.TermsOfService.resources
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.pdb
+C:\Users\MOJ PC\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.messageBoxRentAPerson.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\RentAPersonApp.exe.config
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\RentAPersonApp.exe
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\RentAPersonApp.pdb
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\DataLayer.dll
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\bin\Debug\DataLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.AssemblyReference.cache
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.EditProfile.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.EditReservation.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.Info.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.Login.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.MainMenu.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.messageBoxRentAPerson.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterReservation.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RentMenu.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.ReservationMenu.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.Properties.Resources.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterOptions.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterProvider.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RegisterUser.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.RentAProvider.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.TermsOfService.resources
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.GenerateResource.cache
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CoreCompileInputs.cache
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.csproj.CopyComplete
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.exe
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\RentAPersonApp\obj\Debug\RentAPersonApp.pdb

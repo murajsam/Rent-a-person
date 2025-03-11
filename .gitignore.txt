@@ -1,0 +1,9 @@
+# Ignore MDF and LDF files
+*.mdf
+*.ldf
+
+# Ignore Constants.cs files
+Constants.cs
+
+# Ignore vsidx file type
+*.vsidx

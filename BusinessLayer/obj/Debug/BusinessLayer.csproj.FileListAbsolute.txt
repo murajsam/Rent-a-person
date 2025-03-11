@@ -1,0 +1,108 @@
+C:\Users\MOJ PC\source\repos\RentAPersonApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\source\repos\RentAPersonApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\source\repos\RentAPersonApp\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\source\repos\RentAPersonApp\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\source\repos\RentAPersonApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\source\repos\RentAPersonApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\source\repos\RentAPersonApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MOJ PC\source\repos\RentAPersonApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\source\repos\RentAPersonApp\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\RentAPersonApp3\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp4\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ciceron\Desktop\debu_app\rnt4\RentAPersonApp4\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\RentAPersonApp5\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ciceron\Desktop\debu_app\FINAL\RentAPersonApp5\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\PravaAppISwear\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\PravaAppISwear\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MOJ PC\Desktop\PravaAppISwear\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MOJ PC\Desktop\PravaAppISwear\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MOJ PC\Desktop\PravaAppISwear\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOJ PC\Desktop\PravaAppISwear\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOJ PC\Desktop\PravaAppISwear\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MOJ PC\Desktop\PravaAppISwear\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MOJ PC\Desktop\PravaAppISwear\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\MarijaRadakovic\Desktop\PravaAppISwear\BusinessLayer\obj\Debug\BusinessLayer.pdb
